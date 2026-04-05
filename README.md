@@ -32,7 +32,7 @@ Implements critical grid constraints (voltage limits, line/transformer loading r
 # Usage Examples
 ### 1.Run ExperimentsExecute power system optimization tasks:
 bash python experiment.py Example code snippet from experiment.py: python 运行
-## Render power network state
+### Render power network state
 def render(self, kwargs): ax = pp.plotting.simple_plot(self.net, kwargs) return ax
 ### 2. Hyperparameter Evaluation
 bash python drl/hp_tuning/evaluate_hps.py --directory 20240506_test_hp_tuning4 --which_hyperparam actor_fc_dims --metric average_return
