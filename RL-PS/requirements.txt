@@ -1,0 +1,9 @@
+gymnasium==1.0.0
+numpy==1.26.4
+torch==2.5.1
+matplotlib==3.10.0
+pandas==2.2.3
+pandapower==2.14.11
+simbench==1.5.3
+scipy==1.13.1
+numba==0.58.1
